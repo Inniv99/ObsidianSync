@@ -23,4 +23,4 @@
 Bsp. siehe [[RS232]]
 
 ## Synchronisation
-Die Zeitliche Signalabfolge unterscheidet sich dann noch in der [[Asynchrone Kommunikation]] und der [[Synchrone Kommunikation]].
+Die Zeitliche Signalabfolge unterscheidet sich dann noch in der [[Asynchrone Kommunikation]] und der [[Synchrone Kommunikation]]. ([[Unterschied Asynchron - Synchron]])
