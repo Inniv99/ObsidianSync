@@ -4,7 +4,6 @@
 ## Prinzip 
 Hardware-Handshakes arbeiten auf physischer Ebene, wie z.B. durch [[RS232]] Schnittstellen. Hierbei werden bestimmte Leitungen gekreuzt miteinander verbunden (siehe [[RS232]]).
 
-
 ### Ready/ Busy-Protokoll
 Das Ready/Busy-Protokoll ist die einfachste Form eines Hardware-Handshakes und verwendet lediglich DTR. Ready wird mit logisch 1 (High-Pegel) und Busy mit logisch 0 (Low-Pegel) dargestellt. Ready symbolisiert die Empfangsbereitschaft des DEE/DCE und Busy gibt an, dass dieser beschäftigt ist.
 ## Ablauf (Bsp. anhand RTS/CTS)
