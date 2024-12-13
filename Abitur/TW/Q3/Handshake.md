@@ -5,4 +5,4 @@ Handshakes werden bei der [[Serielle Kommunikation]] verwendet, um den Datenflus
 Es gibt verschieden Arten von Handshakes, wie den [[Software-Handshake]] und den [[Hardware-Handshake]].
 Sie funktionieren auf dem Prinzip, dass der Sender auf die Antwort des Empfängers wartet und erst dann weiter Daten sendet.
 
-##### Vor-/ Nachteile 
+

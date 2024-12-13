@@ -11,6 +11,7 @@ Themen:
 	[[RS232]]
 	 [[RS422]]
 	 [[RS485]]
+		 [[Unterschied RS232-RS422-RS485]]
 	 [[Nullmodem-Varianten]]
 	[[Parität]]
 	[[Asynchrone Kommunikation]]

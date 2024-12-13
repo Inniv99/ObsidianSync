@@ -4,9 +4,9 @@
 
 ##### Serial-Klasse
 
-Zur Implementierung der [[RS-232]] wird eine Wrapper Klasse `Serial` zu Verfügung gestellt:
+Zur Implementierung der [[RS232]] wird eine Wrapper Klasse `Serial` zu Verfügung gestellt:
 
-![[Pasted image 20241213201227.png]]
+![[Pasted image 20241213210919.png]]
 
 Der Constructor `Serial()` erstellt ein Serial Object mit Kommunikationsport und gewollten [[Kommunikationsparameter RS-232]].
 
