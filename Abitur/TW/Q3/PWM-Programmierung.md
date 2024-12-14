@@ -2,9 +2,11 @@
 
 ---
 
+A wird verglichen, modi (00 = nix, 01 (1) down, 10 (2) up, 11 (3) Tastgrad auf 50 => Mittelposition d.h. zur Hälfte an, zur Hälfte aus. P1.7 auf 1 setzen, PWM aktiv A auf Tastgrad ein, solange schleife abwarten 10 mikrosekunden bis 0,5ms voll, dann mit A = 100 - Z Tastgrad aus wartezeit berechnen bis 0,5ms, d.h. bei linksdrehung 1ms warten. Mit UP/DOWN Methode Tastgrad anpassen, immer um 1 höher, wenn Tastgrad EIN nicht schon bei 100%
 
-
-
+für Initialisierung bsp PinB0, und 1 als Ausgänge setzten
+out DDRB, 0b11111100 // Pins 0/1 als ausgänge setzen
+out PORTB, 0b00000011 // mit pull-up
 
 
 Bsp. Code

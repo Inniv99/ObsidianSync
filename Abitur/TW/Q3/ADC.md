@@ -18,7 +18,7 @@ Werte darstellen
 *Auflösung*: sie gibt die kleinstmögliche Spannungsänderung, bzw. die Abstände der einzelnen Bits an => Uref/ 2^n
 *Wandlungszeit*: Die zeit die der ADC benötigt, um ein Signal zu digitalisieren 
 *Sample und Hold Stufe*: die Stufe die das analoge Signal, während der Digitalisierung konstant hält.
-Sample Rate: Die Zeit die der ADC zum "abtasten benötigt", meistens im datenblatt enthalten
+*Sample Rate*: Die Zeit die der ADC zum "abtasten benötigt", meistens im Datenblatt enthalten
 
 
 ## Arten von ADC

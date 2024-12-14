@@ -1,4 +1,4 @@
-#Digitaltechnik #Q3 Erstellt am 13.12.2024 um 16:21 Uhr
+#TW #Q3 Erstellt am 13.12.2024 um 16:21 Uhr
 
 ---
 
@@ -14,7 +14,7 @@ Bei der asynchronen Datenübertragung findet die Informationsübertragung Zeiche
 
 Es gibt **keine Taktleitung**, die Synchronisation ist durch festgelegte Bitrate, Datenformat und Start- und Stoppbits möglich.
 
-![[Pasted image 20241213164653.png]]
+![[Pasted image 20241213221831.png]]
 
 ##### Asynchron und Synchron im Vergleich
 
