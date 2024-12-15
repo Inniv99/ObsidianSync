@@ -20,7 +20,7 @@ Software-Handshakes werden durch bestimmte Steuerzeichen innerhalb einer seriell
 ### Nachteile
 - Steuerzeichen können in den Nutzdaten auftreten und verwirren
 - Latenz deutlich langsamer als bei [[Hardware-Handshake]]
-- Unsicherheit bei verlust
+- Unsicherheit bei Verlust
 ### Steuerzeichen
 ![[Pasted image 20241210125252.png]]
 ### State-Diagramm
@@ -29,24 +29,27 @@ Software-Handshakes werden durch bestimmte Steuerzeichen innerhalb einer seriell
 
 
 ## ETX/ACK
-- ETX: End of text => makiert das Ende eines Datenblocks
+- ETX: End of text => markiert das Ende eines Datenblocks
 - ACK: Acknowledgment => bestätigt den erfolgreichen Empfang des Blocks
 - NAK: Negative Acknowledgment => Signalisiert einen Fehler und fordert eine erneute Übertragung
 - Hierbei handelt es sich um keinen reinen Software-Handshake, da man sowohl DSR, sowie DTR benötigt
 - Paket
 
 ### Ablauf
-1. Der Sender sendet einen Datenblock und fügt am Ende das ETX-Zeichen hinzu
+1. Der Sender sendet einen Datenblock und fügt am Ende das ETX- Zeichen(0x03) hinzu
 2. Der Empfänger prüft die Daten:
-	1. Bei Erfolg: ACK
+	1. Bei Erfolg: ACK 0x06
 	2. Bei Fehler: NAK
 
 ### Vorteile 
 - Robuste Fehlerkontrolle
-- Geeignet für Unzuverlässige Verbindungen
+- Geeignet für Unzuverlässige Verbindungen(zuverlässig wegen ETX)
+- einfach zu implementieren
+- kostengünstig
 
 ### Nachteile 
 - zusätzlicher Aufwand durch Kontrollzeichen
+- hohe latenz 
 
 ## Sequenzdiagramm ETX/ACK
 ![[ETX_ACK.bmp]]

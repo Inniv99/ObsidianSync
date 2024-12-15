@@ -13,7 +13,7 @@ INIT:
  ldi z, 50
  cbi PORTB7
 MAIN:
- ldi acc, PINB
+ in acc, PINB
  andi acc, 0b00000011
  cpi acc, 0
  breq LOS
