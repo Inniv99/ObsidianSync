@@ -11,12 +11,14 @@
             "id": "9019f653adedc137",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Abitur/TW/Q3/Prinzipien von ADCs.pdf"
+                "file": "Abitur/TW/Q3/Threading.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Prinzipien von ADCs"
+              "icon": "lucide-file",
+              "title": "Threading"
             }
           }
         ]
@@ -160,32 +162,33 @@
   },
   "active": "9019f653adedc137",
   "lastOpenFiles": [
+    "Abitur/TW/Q3/Prozesse.md",
+    "Abitur/TW/Q3/Mutex.md",
+    "Abitur/TW/Q3/Semaphore.md",
+    "Abitur/TW/Q3/Threading.md",
+    "Abitur/TW/Q3/DAC.md",
+    "Abitur/TW/Q3/C-Sharp RS232.md",
+    "Abitur/TW/Q3/Software-Handshake.md",
+    "Abitur/TW/Q3/Prinzipien von ADCs.pdf",
     "Abitur/TW/Q3/PWM-Assembler Übung.md",
     "Abitur/TW/Q3/PWM-Programmierung.md",
-    "Abitur/TW/Q3/Software-Handshake.md",
     "Abitur/TW/Q3/TW Klausur 2.md",
     "Abitur/TW/Q3/R2R-Ladder.md",
-    "Abitur/TW/Q3/Prinzipien von ADCs.pdf",
     "Abitur/TW/Q3/Zeitliche Signalabfolge.md",
     "Abitur/TW/Q3/Unterschied RS232-RS422-RS485.md",
     "Abitur/TW/Q3/Unterschied Asynchron - Synchron.md",
     "Abitur/TW/Q3/TW-Klausurvorbereitung_V1.md",
-    "Abitur/TW/Q3/Threading.md",
     "Abitur/TW/Q3/Synchrone Kommunikation.md",
     "Abitur/TW/Q3/Serielle Kommunikation.md",
     "Abitur/TW/Q3/Sequenzdiagramme.md",
     "Abitur/TW/Q3/Sendebereitschaft.md",
-    "Abitur/TW/Q3/Semaphore.md",
     "Abitur/TW/Q3/RS485.md",
     "Abitur/TW/Q3/RS422.md",
     "Abitur/TW/Q3/RS232.md",
-    "Abitur/TW/Q3/Prozesse.md",
     "Abitur/TW/Q3/Parität.md",
     "Abitur/TW/Q3/Nullmodem-Varianten.md",
-    "Abitur/TW/Q3/Mutex.md",
     "Abitur/TW/Q3/Hardware-Handshake.md",
     "Abitur/TW/Q3/Handshake.md",
-    "Abitur/TW/Q3/DAC.md",
     "Abitur/TW/LÖSUNG_SERVOTESTER_PWM.pdf",
     "Abitur/Bilder/Pasted image 20241214114801.png",
     "Abitur/Bilder/Pasted image 20241214113921.png",
