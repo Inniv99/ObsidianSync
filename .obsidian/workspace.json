@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abitur/TW/Q3/Threading.md",
+                "file": "Abitur/TN/Pflichtenheft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threading"
+              "title": "Pflichtenheft"
             }
           }
         ]
@@ -162,10 +162,14 @@
   },
   "active": "9019f653adedc137",
   "lastOpenFiles": [
+    "Abitur/TN/Lastenheft.md",
+    "Abitur/TN/Pflichtenheft.md",
+    "Abitur/TW/Q3/Threading.md",
+    "Abitur/TN",
+    "Abitur/TW/Q3/TW",
     "Abitur/TW/Q3/Prozesse.md",
     "Abitur/TW/Q3/Mutex.md",
     "Abitur/TW/Q3/Semaphore.md",
-    "Abitur/TW/Q3/Threading.md",
     "Abitur/TW/Q3/DAC.md",
     "Abitur/TW/Q3/C-Sharp RS232.md",
     "Abitur/TW/Q3/Software-Handshake.md",
@@ -187,8 +191,6 @@
     "Abitur/TW/Q3/RS232.md",
     "Abitur/TW/Q3/Parität.md",
     "Abitur/TW/Q3/Nullmodem-Varianten.md",
-    "Abitur/TW/Q3/Hardware-Handshake.md",
-    "Abitur/TW/Q3/Handshake.md",
     "Abitur/TW/LÖSUNG_SERVOTESTER_PWM.pdf",
     "Abitur/Bilder/Pasted image 20241214114801.png",
     "Abitur/Bilder/Pasted image 20241214113921.png",
@@ -203,7 +205,6 @@
     "Abitur/Bilder/Pasted image 20241213193653.png",
     "Abitur/TW/Q3/Asynchrone Kommunikation.pdf",
     "Abitur/TW/Q3/ADC.pdf",
-    "Unbenannt",
     "template",
     "Abitur/TW/Q3/PWM-Programmierung.pdf"
   ]
