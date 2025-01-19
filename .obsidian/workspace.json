@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abitur/TN/Pflichtenheft.md",
+                "file": "Abitur/TW/Q3/Socket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pflichtenheft"
+              "title": "Socket"
             }
           }
         ]
@@ -163,6 +163,7 @@
   "active": "9019f653adedc137",
   "lastOpenFiles": [
     "Abitur/TN/Lastenheft.md",
+    "Abitur/TW/Q3/Socket.md",
     "Abitur/TN/Pflichtenheft.md",
     "Abitur/TW/Q3/Threading.md",
     "Abitur/TN",
@@ -190,7 +191,6 @@
     "Abitur/TW/Q3/RS422.md",
     "Abitur/TW/Q3/RS232.md",
     "Abitur/TW/Q3/Parität.md",
-    "Abitur/TW/Q3/Nullmodem-Varianten.md",
     "Abitur/TW/LÖSUNG_SERVOTESTER_PWM.pdf",
     "Abitur/Bilder/Pasted image 20241214114801.png",
     "Abitur/Bilder/Pasted image 20241214113921.png",
