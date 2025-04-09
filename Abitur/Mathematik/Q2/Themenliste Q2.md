@@ -1,11 +1,11 @@
-#Q2 #Mathe Erstellt am 05.02.2025 um 16:17 Uhr
+#AnaGeo #Mathematik Erstellt am 05.02.2025 um 16:17 Uhr
 
 ---
 
 - [[LGS]] 
-	- [[Unter/ Überbestimmung]]
-	- [[Lösungsmenge]]
-	- [[Abhängigkeit von Parameter]]
+	- [[Gaußsche Verfahren]]
+	- [[Unter - Überbestimmung]]
+	
 
 - [[3D-Koordinaten System]]
 	- [[Punkte einzeichnen]]
