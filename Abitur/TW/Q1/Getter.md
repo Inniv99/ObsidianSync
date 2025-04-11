@@ -21,7 +21,7 @@ class Buch
 	private string autor;
 	private int vJahr;
 
-	public string getTitel() {return autor;}
+	public string getTitel() {return titel;}
 }
 ``` 
 
