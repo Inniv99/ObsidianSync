@@ -58,7 +58,6 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 #### Schaltlogik
 - [[Binäre Logik]]
 - [[Logische Gatter]]
-- [[Zusammengesetzte Glieder]]
 - [[Schaltnetzanalyse]]
 - [[Schaltsynthese]]
 	- [[DNF]]
