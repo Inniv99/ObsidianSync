@@ -81,3 +81,12 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 - [[Addierwerk]]
 - [[Subtrahierwerk]]
 
+## Q2
+
+#### AVR-Assembler
+- [[Assemblerdirektiven]]
+- [[DDR-Register]]
+- [[PIN-Register]]
+- [[Portinitialisierung]]
+- [[AVR Programmaufbau]]
+
