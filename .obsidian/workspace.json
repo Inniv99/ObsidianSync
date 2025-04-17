@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abitur/TW/Q2/Anwendungsbeispiele von Schieberegister.md",
+                "file": "Abitur/TW/! Abitur - Themenübersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anwendungsbeispiele von Schieberegister"
+              "title": "! Abitur - Themenübersicht"
             }
           }
         ]
@@ -161,8 +161,12 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "0619f37218fba3ec",
+  "active": "9d493f47b10518cf",
   "lastOpenFiles": [
+    "Abitur/TW/! Klausur - Vorabitur.md",
+    "Abitur/TW/Q3/Zeitliche Signalabfolge.md",
+    "Abitur/TW/! Klausur - Automatisierungstechnik.pdf",
+    "Abitur/TW/Q2/Anwendungsbeispiele von Schieberegister.md",
     "Digitale Synchronzähler.md",
     "Parallel-Seriell laden.md",
     "Abitur/TW/Q3/RS232.md",
@@ -183,20 +187,16 @@
     "Abitur/TW/Q3/Betriebsbereitschaft.md",
     "Abitur/TW/Q3/Asynchrone Kommunikation.md",
     "Abitur/TW/Q3/ADC-Verfahren.md",
-    "Abitur/TW/Q3/Zeitliche Signalabfolge.md",
     "Abitur/TW/Q3/Synchrone Kommunikation.md",
     "Abitur/TW/Q3/Serielle Kommunikation.md",
-    "Abitur/TW/Q2/Anwendungsbeispiele von Schieberegister.md",
     "Abitur/TW/! Abitur - Themenübersicht.md",
     "Abitur/TW/Q2/Modi eines Schieberegister.md",
     "Abitur/Bilder/Pasted image 20250417102330.png",
     "Abitur/Bilder/Pasted image 20250417101935.png",
-    "Unbenanntes Kanban.md",
     "Abitur/Bilder/Pasted image 20250417095948.png",
     "Abitur/Bilder/Pasted image 20250417095930.png",
     "Abitur/TW/Q2/RS-NOR-FF.pdf",
     "Abitur/TW/Q2/RS-NAND-FF.pdf",
-    "Abitur/TW/! Klausur - Automatisierungstechnik.pdf",
     "Abitur/TW/Q2/MS-FF.pdf",
     "Abitur/TW/Q2/JK-FF.pdf",
     "Abitur/TW/Q2/Toggle-FF.pdf",

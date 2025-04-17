@@ -99,3 +99,39 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 - [[Portinitialisierung]]
 - [[AVR Programmaufbau]]
 
+## Q3
+#### Signalwandler
+- [[DAC]]
+	- [[R2R-Ladder]]
+- [[ADC]]
+	- [[ADC-Verfahren]]
+
+#### Pulsweitenmodulation 
+- [[PWM-Programmierung]]
+
+#### Serielle Datenübertragung
+- [[Serielle Kommunikation]]
+	- [[RS232]]
+	 - [[RS422]]
+	 - [[RS485]]
+		 - [[Unterschied RS232-RS422-RS485]]
+	 - [[Nullmodem-Varianten]]
+	- [[Parität]]
+	- [[Asynchrone Kommunikation]]
+	- [[Synchrone Kommunikation]]
+	[[Unterschied Asynchron - Synchron]]
+	- [[Zeitliche Signalabfolge]]
+		- [[Betriebsbereitschaft]]
+		- [[Sendebereitschaft]]
+	- [[Handshake]]
+		- [[Hardware-Handshake]]
+		 - [[Software-Handshake]]
+
+#### Server Client Kommunikation
+- [[Sequenzdiagramme]]
+- [[C-Sharp RS232 ]]
+- [[Threading]]
+	- [[Mutex]]
+	- [[Semaphore]]
+	- [[Prozesse]]
+
