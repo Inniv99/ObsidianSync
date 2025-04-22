@@ -92,6 +92,17 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 - [[Parallel-Seriell laden]]
 - [[Anwendungsbeispiele von Schieberegister]]
 
+#### ATMega2560
+- [[Status Register]]
+- [[Special Function Register]]
+- [[General Purpose Register]]
+- [[16 Bit-Addition]]
+- [[Stack]]
+- [[Subroutinen]]
+- [[Stackoverflow und Heapoverrun]]
+- [[Dataspace und SRAM]]
+- [[Flash Speicher]]
+
 #### AVR-Assembler
 - [[Assemblerdirektiven]]
 - [[DDR-Register]]
@@ -100,6 +111,8 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 - [[AVR Programmaufbau]]
 
 ## Q3
+
+... Q3.1 siehe Automatisierungstechnik pdf
 #### Signalwandler
 - [[DAC]]
 	- [[R2R-Ladder]]
