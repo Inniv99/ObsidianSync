@@ -17,7 +17,7 @@ Servomotoren werden häufig über [[Pulsweitenmodulation]] angesteuert, wobei de
 
 
 _Positionsermittlung_
-Optischer Motorinkrementalgeber: reiner Inkrementalgeber, der Lichtschranken von Oben nach unten wie bei einer alten Maus besitzt
+Optischer Motorinkrementalgeber: reiner Inkrementalgeber, der Lichtschranken von Oben nach unten wie bei einer alten Maus besitzt, muss nach Einschaltung erst zum Endpunkt fahren um den "Nullpunkt" zu bestimmen  
 
 Absolutwertgeber: Die Lichtschranken sind mehrkanalig => optischer Code wird abgetastet und Digitalcode wird abgelesen => genaue absolute Drehpositionsermittlung
 

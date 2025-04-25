@@ -93,6 +93,15 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 - [[Parallel-Seriell laden]]
 - [[Anwendungsbeispiele von Schieberegister]]
 
+#### Prozessorarchitektur
+- [[Harvard Architektur]]
+- [[Von Neumann Architektur]]
+- [[Aufbau von AVR Prozessorkern]]
+- [[Arbeitsweise der AVR CPU]]
+- [[Funktionsweise der ALU]]
+- [[Befehlscoder]]
+- [[Steuerwerk ATMega]]
+
 #### ATMega2560
 - [[Status Register]]
 - [[Special Function Register]]
