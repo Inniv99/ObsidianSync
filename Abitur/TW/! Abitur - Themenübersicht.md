@@ -114,6 +114,32 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 ## Q3
 
 ... Q3.1 siehe Automatisierungstechnik pdf
+
+#### Elektrotechnische Bauteile
+- [[Bipolar Transistor]]
+- [[MOSFET]]
+- [[Taster]]
+- [[Kondensator]]
+- [[Diode]]
+
+#### Sensoren
+- [[Resistive Sensoren]]
+	- [[Messtechnischer Einsatz von resistiven Sensoren]]
+- [[Infrarot Sensoren]]
+- [[Kapazitive Näherungssensoren]]
+- [[Induktive Näherungssensoren]]
+
+#### Aktoren
+- [[Induktionsgesetz]]
+	- [[Freilaufdiode]]
+- [[Magnetventil]]
+- [[Relais]]
+- [[Pulsweitenmodulation]]
+	- [[Treiberstufe]]
+- [[H-Brücke]]
+- [[Servomotor]]
+- [[Schrittmotor]]
+
 #### Signalwandler
 - [[DAC]]
 	- [[R2R-Ladder]]
@@ -121,6 +147,7 @@ Erstellt am 09.04.2025 um 10:39 Uhr
 	- [[ADC-Verfahren]]
 
 #### Pulsweitenmodulation 
+- [[Zeitschleifenprogrammierung AVR]]
 - [[PWM-Programmierung]]
 
 #### Serielle Datenübertragung
