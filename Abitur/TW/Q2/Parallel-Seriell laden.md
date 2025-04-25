@@ -8,3 +8,7 @@ Bei n Stufen kann nach n Takten der Datenstrom am Ausgang n wieder _Seriell_ abg
 
 Für _Parallel zu Seriell_ [[Schieberegister]] gilt:
 Nach jedem Takt wird ein Bit ausgelesen und ist somit nach jedem Takt abgreifbar
+
+**![[Pasted image 20250425132437.png]]
+
+![[Pasted image 20250425132540.png]]

@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abitur/TW/Q2/Parallel-Seriell laden.md",
+                "file": "Abitur/TW/Q2/JK-FF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für Parallel-Seriell laden"
+              "title": "Rückverweise für JK-FF"
             }
           },
           {
@@ -196,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abitur/TW/Q2/Parallel-Seriell laden.md",
+                "file": "Abitur/TW/Q2/JK-FF.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Parallel-Seriell laden öffnen"
+              "title": "Ausgehende Links von JK-FF öffnen"
             }
           },
           {
@@ -246,45 +246,46 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "0619f37218fba3ec",
+  "active": "3ad7828c46eb618b",
   "lastOpenFiles": [
-    "Abitur/TW/Q2/Modi eines Schieberegister.md",
+    "Pasted image 20250425132540.png",
+    "Pasted image 20250425132437.png",
+    "Abitur/TW/! Klausur - Automatisierungstechnik.pdf",
     "Abitur/TW/Q2/Schieberegister.md",
-    "Abitur/TW/Q2/Parallel-Seriell laden.md",
-    "Abitur/TW/! Abitur - Themenübersicht.md",
-    "Abitur/TW/Q2/Portinitialisierung.md",
+    "Abitur/TW/Q2/Modi eines Schieberegister.md",
+    "Abitur/TW/Q3/Unterschied RS232-RS422-RS485.md",
+    "Abitur/TW/Q3/Betriebsbereitschaft.md",
+    "Abitur/TW/Q3/Mutex.md",
+    "Abitur/TW/Q3/Hardware-Handshake.md",
+    "Abitur/TW/Q3/Handshake.md",
+    "Abitur/TW/Q3/DAC.md",
+    "Abitur/TW/Q3/C-Sharp RS232.md",
+    "Abitur/TW/Q3/RS232.md",
+    "Abitur/TW/Q3/ADC.md",
+    "Abitur/TW/Q1/De Morgansches Theorem.md",
+    "Abitur/TW/Q1/DNF.md",
+    "Abitur/TW/Q1/Logische Gatter.md",
+    "Abitur/TW/Q1/KNF.md",
+    "Abitur/TW/Q1/Klasseninstanzierung.md",
+    "Abitur/TW/Q1/Klassenattribute.md",
+    "Abitur/TW/Q1/Klassen und Objekte.md",
+    "Abitur/TW/Q1/Halbaddierer.md",
+    "Abitur/TW/Q1/Getter.md",
+    "Abitur/TW/Q1/Dualzahlsubtraktion.md",
+    "Abitur/TW/Q1/Dualzahladdition.md",
+    "Abitur/TW/Q1/Das Komplement.md",
+    "Abitur/TW/Q1/Darstellung von Ganzzahlen.md",
+    "Abitur/TW/Q1/Binäre Logik.md",
+    "Abitur/TW/Q2/Toggle-FF.pdf",
+    "Abitur/TW/Q2/JK-FF.pdf",
+    "Abitur/TW/Q3/Prinzipien von ADCs.pdf",
+    "Abitur/TW/Q2/Delay-FF.pdf",
     "Abitur/Bilder/Pasted image 20250423170945.png",
     "Abitur/Bilder/Pasted image 20250423165808.png",
-    "Abitur/TW/Q2/JK-FF.pdf",
-    "Abitur/TW/Q2/Delay-FF.pdf",
-    "Abitur/TW/Q2/Toggle-FF.pdf",
     "Abitur/TW/Q2/RS-NAND-FF.pdf",
     "Abitur/TW/Q2/MS-FF.pdf",
     "Abitur/TW/Q2/FlipFlop (1).pdf",
-    "Abitur/TW/Q3/Betriebsbereitschaft.md",
-    "Abitur/TW/Q2/PIN-Register.md",
-    "Abitur/TW/Q2/Status Register.md",
     "Abitur/TW/LÖSUNG_SERVOTESTER_PWM.pdf",
-    "Abitur/TW/Q2/Assemblerdirektiven.md",
-    "Abitur/TW/Q3/Sendebereitschaft.md",
-    "Abitur/TW/Q3/C-Sharp RS232.md",
-    "Abitur/TW/Q3/Handshake.md",
-    "Abitur/TW/Q3/TW-Klausurvorbereitung_V1.md",
-    "Abitur/TW/Q3/Threading.md",
-    "Abitur/TW/Q3/Software-Handshake.md",
-    "Abitur/TW/Q3/RS232.md",
-    "Abitur/TW/Q3/Hardware-Handshake.md",
-    "Abitur/TW/Q3/Socket.md",
-    "Abitur/TW/Q3/Parität.md",
-    "Abitur/TW/Q3/Prinzipien von ADCs.pdf",
-    "Abitur/TW/Q3/Prozesse.md",
-    "Abitur/TW/Q3/RS485.md",
-    "Abitur/TW/Q3/RS422.md",
-    "Abitur/TW/Q3/Serielle Kommunikation.md",
-    "Abitur/TW/Q2/Anwendungsbeispiele von Schieberegister.md",
-    "Abitur/TW/Q2/BCD-Code.md",
-    "Abitur/TW/Q2/DDR-Register.md",
-    "Abitur/TW/! Klausur - Automatisierungstechnik.pdf",
     "Unbenannt",
     "Abitur/Bilder/Pasted image 20250422152407.png",
     "Abitur/Bilder/Pasted image 20250422133550.png",
@@ -293,7 +294,6 @@
     "Abitur/Bilder/Pasted image 20250417095948.png",
     "Abitur/Bilder/Pasted image 20250417095930.png",
     "Abitur/Bilder/Pasted image 20250417090929.png",
-    "Abitur/Bilder/Pasted image 20250417085901.png",
     "Unbenannt.canvas"
   ]
 }

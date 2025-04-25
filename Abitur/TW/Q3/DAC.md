@@ -2,7 +2,7 @@ Erstellt am 11.12.2024 um 19:01 Uhr
 
 ---
 ## Prinzip:
-Ein Digital to Analogue Converter (DAC) wandelt digitale Signale (Bits), in analoge Ausgaben um, wie z.B. in Volt um. Ein Bit kann den Wert 1 oder 0 annehmen, wodurch die Ausgangsspannung berechnet werden kann.
+Ein Digital to Analogue Converter (DAC) wandelt digitale Signale (Bits), in analoge Ausgaben, wie z.B. in Volt um. Ein Bit kann den Wert 1 oder 0 annehmen, wodurch die Ausgangsspannung berechnet werden kann.
 Dabei wird eine [[R2R-Ladder]] verwendet 
 
 
