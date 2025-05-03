@@ -1,8 +1,7 @@
-#Q3 #TW 
-
-Erstellt am 11.12.2024 um 18:58 Uhr
+#Q3 #TW Erstellt am 11.12.2024 um 18:58 Uhr
 
 ---
+
 ## Prinzip
 Bei der asynchronen Kommunikation gibt es keinen gemeinsamen Takt zwischen Sender und Empfänger. Die Synchronisation erfolgt durch das Startbit.
 
