@@ -3,7 +3,7 @@ Erstellt am 25.04.2025 um 14:09 Uhr
 ---
 
 Kapazitive Näherungssensoren funktionieren prinzipiell wie ein Kondensator.
-Die einfachste Form ist die eines Plattenkondensators, welcher aus zwei parallel angeordneten leitfähigen Platten, welche durch eine isolierende Schicht voneinander getrennt sind, besteht. Diese isolierende Schicht heißt _Dielektum_.  
+Die einfachste Form ist die eines Plattenkondensators, welcher aus zwei parallel angeordneten leitfähigen Platten, die durch eine isolierende Schicht voneinander getrennt sind, besteht. Diese isolierende Schicht heißt _Dielektum_.  
 Kondensatoren werden in Oszillatoren verwendet und anhand der Veränderung der Schwingungen, kann man die Kapazitätsänderung wahrnehmen.
 ![[Pasted image 20250425141440.png]]
 
