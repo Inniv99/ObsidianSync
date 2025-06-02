@@ -34,9 +34,65 @@
               "icon": "lucide-file",
               "title": "Digitale Synchronzähler"
             }
+          },
+          {
+            "id": "a31d7b15f9ed27ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abitur/Deutsch/Heimsuchung/Figurenkonstellation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Figurenkonstellation"
+            }
+          },
+          {
+            "id": "997196b91d5999b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abitur/Deutsch/Literaische Epochen/Romantik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Romantik"
+            }
+          },
+          {
+            "id": "85c198a6c02c1d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abitur/Deutsch/Literaische Epochen/Expressionismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expressionismus"
+            }
+          },
+          {
+            "id": "a76a0e83e85b0b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abitur/Deutsch/Gedichtanalyse/Sprachliche Mittel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprachliche Mittel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,8 +234,20 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "b1da141527ab733e",
+  "active": "0619f37218fba3ec",
   "lastOpenFiles": [
+    "Abitur/Deutsch/Gedichtanalyse/Formale Analyse.md",
+    "Abitur/Deutsch/Gedichtanalyse/Sprachliche Mittel.md",
+    "Abitur/Deutsch/Literaische Epochen/Expressionismus.md",
+    "Abitur/Deutsch/Gedichtanalyse",
+    "Abitur/Deutsch/Literaische Epochen/Romantik.md",
+    "Abitur/Deutsch/Heimsuchung/Figurenkonstellation.md",
+    "Abitur/Deutsch/Literaische Epochen",
+    "Der Sandmann",
+    "Abitur/Deutsch/Heimsuchung",
+    "Abitur/Deutsch/Unbenannt.md",
+    "Abitur/TW/Q2/Digitale Synchronzähler.md",
+    "Abitur/Deutsch",
     "Abitur/TW/Q3/Sequenzdiagramme.md",
     "Abitur/TW/Q2/Schieberegister.md",
     "Abitur/TW/Q2/Modi eines Schieberegister.md",
@@ -196,29 +264,17 @@
     "Abitur/TW/Q1/Volladdierer.md",
     "Abitur/TW/Q3/Kapazitive Näherungssensoren.md",
     "Abitur/TW/Q1/Bubble-Sort.md",
-    "Abitur/TW/Q2/Digitale Synchronzähler.md",
     "Abitur/TW/Q3/Induktive Näherungssensoren.md",
     "Abitur/TW/! Abitur - Themenübersicht.md",
     "Abitur/TW/Q2/Taktzustandgesteuertes FlipFlop.pdf",
     "Abitur/TW/Q2/Taktflankengesteuertes FlipFlop.pdf",
     "Abitur/TW/Q2/Status Register.md",
-    "Abitur/TW/Q2/Von Neumann Architektur.md",
-    "Abitur/TW/Q2/Harvard Architektur.md",
     "Abitur/TW/Q2/Toggle-FF.pdf",
     "Abitur/TW/Q2/Taktflankengesteurtes RS-FF.pdf",
     "Abitur/TW/Q2/Delay-FF.pdf",
-    "Abitur/TW/Q2/RS-NOR-FF.pdf",
-    "Abitur/TW/Q2/RS-NAND-FF.pdf",
-    "Abitur/TW/Q2/JK-FF.pdf",
-    "Abitur/TW/Q2/FlipFlop (1).pdf",
-    "Abitur/TW/Q2/Digitale Asynchronzähler.md",
-    "Abitur/TW/Q2/DDR-Register.md",
-    "Abitur/TW/Q2/BCD-Code.md",
-    "Abitur/TW/Q2/AVR Assembler Übung.md",
     "Abitur/Bilder/Pasted image 20250503102904.png",
     "Abitur/Bilder/Pasted image 20250503102122.png",
     "Abitur/Bilder/Pasted image 20250503101824.png",
-    "Abitur/TW/! Klausur - Automatisierungstechnik.pdf",
     "Abitur/Bilder/Pasted image 20250430121032.png",
     "Abitur/Bilder/Pasted image 20250429172701.png",
     "Abitur/Bilder/Pasted image 20250425213306.png",
